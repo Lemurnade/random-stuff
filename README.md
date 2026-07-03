@@ -12,3 +12,7 @@ At `random-stuff/primesay`
 #### RandomGuess
 Guess a random number between 1 and 100. The result is either "higher", "lower", or correct. Made in Julia.
 At `random-stuff/randomguess`
+
+#### Fizzbuzz
+The classic thing
+At `random-stuff/fizzbuzz`
