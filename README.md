@@ -14,5 +14,9 @@ Guess a random number between 1 and 100. The result is either "higher", "lower",
 At `random-stuff/randomguess`
 
 #### Fizzbuzz
-The classic thing
+The classic thing.
 At `random-stuff/fizzbuzz`
+
+#### Todo
+Volatile to do list.
+At `random-stuff/todo`
